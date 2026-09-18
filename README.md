@@ -40,6 +40,9 @@ Apresenta-se a seguir o fluxo completo de navegação e as etapas de interação
 ---
 
 ## 3. Fluxograma da Lógica do Sistema
+![Minha imagem](docs/fluxograma_jogo_investigacao.drawio.svgdocs/fluxogta)
+
+
 
 <p align="center">
   <img src="docs/fluxograma_jogo_investigacao.drawio.svg" width="100%">
