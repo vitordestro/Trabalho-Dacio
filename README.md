@@ -2,7 +2,10 @@
 
 ## 1. Descrição do Sistema
 
-**Exemplo:**
+O projeto consiste em um sistema de jogo de investigação desenvolvido em linguagem C. O sistema permitirá que o jogador escolha entre diferentes casos, cada um com um nível de dificuldade e uma quantidade específica de turnos para solucionar o mistério. Durante a investigação, o jogador poderá explorar cômodos, conversar com suspeitos, coletar pistas e consultar o inventário para reunir informações que auxiliem na descoberta do culpado.
+
+O foco principal é proporcionar uma experiência de investigação baseada na tomada de decisões e no gerenciamento de turnos, permitindo que o jogador analise as pistas disponíveis e escolha as melhores ações para solucionar cada caso. Ao final da investigação, o jogador deverá realizar uma acusação e, caso identifique corretamente o culpado, vencerá o jogo. Caso contrário, ou se os turnos forem esgotados sem uma acusação correta, a partida será encerrada com derrota.
+
 
 ---
 
@@ -37,8 +40,18 @@ Apresenta-se a seguir o fluxo completo de navegação e as etapas de interação
 ---
 
 ## 3. Fluxograma da Lógica do Sistema
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/1dd12bcc-28ff-4be9-b1be-6b8192785387">
+    <img 
+      src="https://github.com/user-attachments/assets/1dd12bcc-28ff-4be9-b1be-6b8192785387"
+      alt="Fluxograma da lógica do sistema"
+      width="900"
+    >
+  </a>
+</p>
 
----
+
+
 
 ## 4. Estrutura de Dados
 
